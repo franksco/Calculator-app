@@ -30,4 +30,4 @@ _{We used Javascript to make our Calculator App.}_
 
 *{MIT.}*
 
-Copyright (c) 2015 **_{List of contributors or company name}_**
+Copyright (c) 2015 **_{Cory Franks and Jake Richmond}_**
