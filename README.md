@@ -1,33 +1,31 @@
-# _{Calculator}_
+# Calculator
 
-#### _{A Calculator}, {03/21/2016}_
+#### A Calculator, {03/21/2016}_
 
-#### By _**{Cory Franks and Jake Richmond}**_
+#### By Cory Franks and Jake Richmond, {03/21/2016}_
 
 ## Description
 
-_{A simple Calculator application.}_
+A simple Calculator application.
 
 ## Setup/Installation Requirements
 
-* _clone from git hub_
-* _open folder_
-* _click on html file and open in a browser_*
+* clone from git hub
+* open folder
+* click on html file and open in a browser
 
 ## Known Bugs
 
-_{No known bugs}_
+No known bugs
 
 ## Support and contact details
 
-_{Contact Cory Franks or Jake Richmond at franksco39@gmail.com or jakeorichmond@gmail.com}_
+Contact Cory Franks or Jake Richmond at franksco39@gmail.com or jakeorichmond@gmail.com
 
 ## Technologies Used
 
-_{We used Javascript to make our Calculator App.}_
+We used Javascript to make our Calculator App.
 
-### License
+### License MIT
 
-*{MIT.}*
-
-Copyright (c) 2015 **_{Cory Franks and Jake Richmond}_**
+Copyright (c) 2016 Cory Franks and Jake Richmond
