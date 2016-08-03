@@ -1,8 +1,6 @@
 # Calculator
 
-#### A Calculator, {03/21/2016}_
-
-#### By Cory Franks and Jake Richmond, {03/21/2016}_
+#### By Cory Franks and Jake Richmond, 03/21/2016
 
 ## Description
 
