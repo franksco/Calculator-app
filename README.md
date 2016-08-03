@@ -26,6 +26,8 @@ Contact Cory Franks or Jake Richmond at franksco39@gmail.com or jakeorichmond@gm
 
 We used Javascript to make our Calculator App.
 
-### License MIT
+### License 
+
+This software is licensed under the MIT License
 
 Copyright (c) 2016 Cory Franks and Jake Richmond
